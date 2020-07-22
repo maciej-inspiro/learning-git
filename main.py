@@ -1,4 +1,4 @@
-name_list = list(["John", "Michael", "Terry", "Eric", "Graham"])
+name_list = list(["Maciej", "Michael", "Terry", "Eric", "Graham"])
 name_dictionary = {}
 
 for name in name_list:
