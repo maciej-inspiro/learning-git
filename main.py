@@ -5,3 +5,4 @@ for name in name_list:
   name_dictionary[name] = len(name)
 
 print(name_dictionary)
+print("Ćwiczymy commity")
